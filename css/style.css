@@ -1,0 +1,11 @@
+#red_paragraph{
+    color: red;
+    font-size: 50px;
+}
+.image{
+    width: 5px;
+    border:10px ;
+}
+.container p{
+    border:purple;
+}
